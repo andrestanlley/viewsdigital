@@ -20,7 +20,7 @@ body{
 
 body::after {
     content: "";
-    background-image: url('assets/background_texture.png');
+    background-image: url('/assets/background_texture.png');
     background-size: cover;
     opacity: 0.2;
     top: 0;
