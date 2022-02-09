@@ -99,9 +99,3 @@ footer > img{
     width: 5rem;
     margin-top: 1.5rem;
 }
-
-@media (min-width: 800px){
-    main{
-        flex-direction: row;
-    }
-}
